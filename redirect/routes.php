@@ -52,7 +52,7 @@ class Route {
         ],
         'numprog'      => [
             'description' => 'Numerisches Programmieren',
-            'moodle_id'   => '53128',
+            'moodle_id'   => '68974',
         ],
         'websec'       => [
             'description' => 'WebApplication Security Bachelor Praktikum',
@@ -408,7 +408,7 @@ class Route {
         ],
         'rts'          => [
             'description' => 'Echtzeitsysteme / Real Time Systems',
-            'moodle_id'   => '42138',
+            'moodle_id'   => '68918',
         ],
         'ecarus'       => [
             'description' => 'E-Mobility der Zukunft: Ingenieurspraxis, Forschungspraxis & Co.',
